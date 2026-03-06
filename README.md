@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Piyush 👋
 
 I’m a former Data Analyst currently transitioning into Frontend Development.  
