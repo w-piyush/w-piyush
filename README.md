@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**w-piyush/w-piyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Piyush 👋
 
-Here are some ideas to get you started:
+I’m a former Data Analyst currently transitioning into Frontend Development.  
+I enjoy building simple, clean, and interactive web applications while continuously improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning and practicing **Frontend Development**
+- Building projects using **HTML, CSS, and JavaScript**
+- Strengthening my problem-solving and development skills through hands-on projects
+
+## 🛠 Tools & Technologies I Use
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- VS Code
+
+*(Previously worked with Python, SQL, Excel, and Tableau as a Data Analyst)*
+
+- LinkedIn: https://www.linkedin.com/in/piyush-worlikar-a59965274/
