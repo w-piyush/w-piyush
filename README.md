@@ -14,6 +14,6 @@ I enjoy building simple, clean, and interactive web applications while continuou
 - Git & GitHub
 - VS Code
 
-*(Previously worked with Python, SQL, Excel, and Tableau as a Data Analyst)*
+*(Previously worked with Excel as a Data Analyst)*
 
 - LinkedIn: https://www.linkedin.com/in/piyush-worlikar-a59965274/
