@@ -1,6 +1,6 @@
 # Hi, I'm Piyush 👋
 
-I’m a former Data Analyst currently transitioning into Frontend Development.  
+I’m a former Data Analyst currently transitioning into Frontend Development / Web Development.  
 I enjoy building simple, clean, and interactive web applications while continuously improving my coding skills.
 
 - Learning and practicing **Frontend Development**
